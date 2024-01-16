@@ -34,7 +34,7 @@
 
 <!-- 
 Badges - https://dev.to/envoy_/150-badges-for-github-pnk
-Github Stats - 
+Github Stats - https://github.com/anuraghazra/github-readme-stats
 -->
 
 
